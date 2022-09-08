@@ -8,7 +8,6 @@ public @Data @AllArgsConstructor @NoArgsConstructor class UpdateUserDTO {
 
 	private String name;
 	private String email;
-	private String password;
 	private long mobile;
 	private String role;
 	private boolean active;

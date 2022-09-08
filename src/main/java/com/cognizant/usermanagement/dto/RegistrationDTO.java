@@ -13,6 +13,7 @@ public @AllArgsConstructor @Data @NoArgsConstructor class RegistrationDTO {
 	private String password;
 	private long mobile;
 	private Date birthDate;
+	private String gender;
 	private String role;
 
 }
